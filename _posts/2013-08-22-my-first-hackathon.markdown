@@ -38,3 +38,7 @@ At the end of the demos - the judges went off to select the winners of the diffe
 * use some of the technologies before the hackathon - you can't actually write code that is used in the hackathon before the start - but you can practice and become familiar with your dev tools.
 * make sure you pace yourself and watch the time - make sure you have a cut-off point so you have something working to demo. They key points seem to be demoing functionality from a user perspective (but you don't need to have details like login, etc. figured out).
 * be sure to have fun! It is stressful because you are working under very tight deadlines - but remember it is something you are doing for fun. It won't be the end of the world if your app isn't perfect.
+
+Here are some photos:
+![hackathon demo](/assets/mobile_hack_demo.jpg)
+![hackathon winner](/assets/mobile_hackathon.jpg)
