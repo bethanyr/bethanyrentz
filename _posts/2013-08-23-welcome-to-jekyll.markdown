@@ -28,9 +28,9 @@ Some key points to watch out for:
 My blog publishing workflow is as follows (I am using Linux Ubuntu 13.04):
 
 1. On my computer create a new blog post in [markdown](http://en.wikipedia.org/wiki/Markdown) format.
-2. run jekyll build from the terminal window- which creates the html pages.
-3. run jekyll serve from the terminal window to check out my blog post on my local machine.
-4. run s3_site push to push the website up to my S3 bucket.
+2. run **jekyll build** from the terminal window- which creates the html pages.
+3. run **jekyll serve** from the terminal window to check out my blog post on my local machine.
+4. run **s3_site push** to publish the website up to my S3 bucket.
 5. push a copy of my website changes to my github repo.
 
 I could probably spend some more time automating the push to AWS and git hub - but for now - I'm happy with the extra steps.
